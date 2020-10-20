@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Hula Aloha Brasil",
+      "email": "admin@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Ovidio Matiazi Neto",
+      "email": "netoomn@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Neto Matiazi ",
+      "email": "netomatiazi@hotmail.com",
+      "id": 3
+    }
+  ]
+}
